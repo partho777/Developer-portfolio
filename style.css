@@ -39,3 +39,16 @@ h1{
     background-repeat: no-repeat;
     background-position: right;   
 }
+.Experience{
+    background-image: url(images/dream-bg\ -1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.experience-items{
+    width: 70%;
+    margin-left: 3%;
+    margin-right: 3%;
+    padding-left: 1%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px greenyellow;
+}
