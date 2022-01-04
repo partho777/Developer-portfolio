@@ -8,7 +8,7 @@ h1{
 .Orange-color{
     color: chartreuse;
 }
-section{
+.flexible-container{
     display: flex;
     margin: 70px;
 }
@@ -37,6 +37,5 @@ section{
 .Tiger{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
-    background-position: right;
-    
+    background-position: right;   
 }
