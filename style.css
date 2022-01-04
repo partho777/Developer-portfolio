@@ -42,7 +42,7 @@ h1{
 .Experience{
     background-image: url(images/dream-bg\ -1.png);
     background-repeat: no-repeat;
-    background-position: left;
+    background-position: left;  
 }
 .experience-items{
     width: 70%;
@@ -50,5 +50,20 @@ h1{
     margin-right: 3%;
     padding-left: 1%;
     border-radius: 10px;
-    box-shadow: 10px 10px 20px greenyellow;
+    box-shadow: 10px 10px 20px greenyellow;        
 }
+#travel-sundarban{
+    border-left: 20px solid;
+    border-image: linear-gradient( yellow, green) ;
+    border-image-slice: 1;
+}
+#travel-to-sundarban{
+    border-left: 20px solid;
+    border-image: linear-gradient( green, yellow) ;
+    border-image-slice: 1;
+    
+}
+footer p{
+    text-align: center;
+}
+
